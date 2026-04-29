@@ -5,6 +5,7 @@
 - [x] Finish task 1
 - [ ] Task two waiting for FAISAL!!!
 
+<img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat" width="200" />
 
 **Linux Image :)**
 ``` bash
