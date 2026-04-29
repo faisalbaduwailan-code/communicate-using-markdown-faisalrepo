@@ -5,7 +5,7 @@
 - [x] Finish task 1
 - [ ] Task two waiting for FAISAL!!!
 
-![Linux](https://imgs.search.brave.com/tOk08ITKwmenTIpueP1dOLGj_Yvbn8Z2aG8ggPAsKUQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/>
+![Linux](https://imgs.search.brave.com/tOk08ITKwmenTIpueP1dOLGj_Yvbn8Z2aG8ggPAsKUQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/>)
 
 ``` bash
 
