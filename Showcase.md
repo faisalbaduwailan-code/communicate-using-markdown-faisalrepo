@@ -1,6 +1,6 @@
 #  Header is asked
 
-** I actually wrote good review about macOS compared to Linux but I lost the file due to git reset --hard origin Research-OS so I won't write again :/**
+**I actually wrote good review about macOS compared to Linux but I lost the file due to git reset --hard origin Research-OS so I won't write again :/**
 1. In short
 2. Use
 3. Linux
